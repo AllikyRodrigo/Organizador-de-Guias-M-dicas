@@ -1,0 +1,9 @@
+.venv/
+build/
+dist/
+__pycache__/
+
+# Dados de saúde: nunca versionar
+*.pdf
+*_resultado/
+*.csv
